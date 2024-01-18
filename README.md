@@ -1,4 +1,4 @@
-# Tutorat Programmation Python Licence 3, Master 1 & 2 Neurosciences 
+# Tutorat Programmation Python Licence 3, Master 1 & 2 Neurosciences et PhD programme
 ### Sous la direction de : Dautrevaux Cyprien et Lainé Alexandre
 #### Avec le soutien et l'accord de l'équipe enseignante du Master de Neurosciences d'Aix Marseille Université et de la Neuroschool. 
 
