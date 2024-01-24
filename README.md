@@ -22,7 +22,7 @@ Voici la liste des créneaux acceptés par la scolarité pour le tutorat de cett
 
 * Lundi 22 Janvier de 17h à 19h, Amphitheatre Massiani (Bâtiment 7)
 
-* Lundi 29 Janvier de 17h à 19h, Amphitheatre Massiani (Bâtiment 7)
+* Lundi 29 Janvier de 17h à 19h, Salle 15-205, bâtiment 15 ou encore dit LSH. (Changement pour cause de nuisances sonores en Massiani)
 
 * Lundi 5 Février de 17h à 19h, Amphitheatre Charve (Bâtiment 9)
 
