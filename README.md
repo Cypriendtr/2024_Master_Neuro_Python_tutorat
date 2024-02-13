@@ -17,7 +17,7 @@ Pour mener à bien tout ces objectifs 8 séances de 2 heures hebdomadaires sont 
 
 [Page Ametice](https://ametice.univ-amu.fr/course/view.php?id=115816)
 
-** [Lien ZOOM pour assister aux séances à distance](https://univ-amu-fr.zoom.us/j/86973751199?pwd=dXNleHQwRS9YQlBheHpWeTVhbGdQdz09#success)**
+**[Lien ZOOM pour assister aux séances à distance](https://univ-amu-fr.zoom.us/j/86973751199?pwd=dXNleHQwRS9YQlBheHpWeTVhbGdQdz09#success)**
 
 ### Les Séances ont lieux sur le site de St-Charles aux creneaux suivants pour l'édition 2023-2024 : 
 Voici la liste des créneaux acceptés par la scolarité pour le tutorat de cette année.
