@@ -17,6 +17,8 @@ Pour mener à bien tout ces objectifs 8 séances de 2 heures hebdomadaires sont 
 
 [Page Ametice](https://ametice.univ-amu.fr/course/view.php?id=115816)
 
+** [Lien ZOOM pour assister aux séances à distance](https://univ-amu-fr.zoom.us/j/86973751199?pwd=dXNleHQwRS9YQlBheHpWeTVhbGdQdz09#success)**
+
 ### Les Séances ont lieux sur le site de St-Charles aux creneaux suivants pour l'édition 2023-2024 : 
 Voici la liste des créneaux acceptés par la scolarité pour le tutorat de cette année.
 
@@ -46,9 +48,9 @@ Voici la liste des créneaux acceptés par la scolarité pour le tutorat de cett
 
 * Séance 2: Premiers pas sur Python (Les variables et formalisme de calcul).
 
-* Séance 3: Les bibliothèques Numpy et Matplotlib.
+* Séance 3: Les boucles et les fonctions.
 
-* Séance 4: Les boucles et les fonctions.
+* Séance 4: Les bibliothèques Numpy et Matplotlib.
 
 * Séance 5: Application - Utilisation des boucles et fonctions - Séance d'exercices
 
