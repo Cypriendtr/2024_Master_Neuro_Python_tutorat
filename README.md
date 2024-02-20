@@ -52,15 +52,13 @@ Voici la liste des créneaux acceptés par la scolarité pour le tutorat de cett
 
 * Séance 4: Les bibliothèques Numpy et Matplotlib.
 
-* Séance 5: Application - Utilisation des boucles et fonctions - Séance d'exercices
+* Séance 5: Application - Modélisation neuronale (Leaky integrated and fire)
 
-* Séance 6: Application - Modélisation neuronale (Leaky integrated and fire)
+* Séance 6: Encore des bibliothèques Sympy et Scipy
 
-* Séance 7: Encore des bibliothèques Sympy et Scipy
+* Séance 7: Toujours des bibliothèques Pandas et Seaborn
 
-* Séance 8: Toujours des bibliothèques Pandas et Seaborn
-
-* Séance 9: Analyse du Dataset Titanic - Séance d'exercice sur Pandas et les Datasets
+* Séance 8 & 9: Analyse du Dataset Titanic - Séance d'exercice sur Pandas et les Datasets
 
 * Séance 10 Introduction au machine Learning avec ScikitLearn
 
